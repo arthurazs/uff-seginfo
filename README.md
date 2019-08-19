@@ -137,31 +137,23 @@ Stallings, W. and Brown, L. (2013). Segurança de Computadores. 2ª ed. Elsevier
 
 Contramedidas, medidas técnicas ou de gerenciamento.
 
-Técnicas
-- Controle de Acesso
-- Identificação e Autenticação
-- Proteção de Sistemas e Comunicações
-- Integridade de Sistemas e Informações
-
-Requisitos
-
-- Controle de acesso
-- Conscientização e treinamento
-- Auditoria e responsabilidade
-- Avaliações de certificação, credenciamento e segurança
-- Gerenciamento de configuração
-- Planejamento de contingência
-- Identificação e autenticação
-- Resposta a incidentes
-- Manutenção
-- Proteção da mídia
-- Proteção física e ambiental
-- Planejamento
-- Segurança de pessoal
-- Avaliação de risco
-- Aquisição de sistemas e serviços
-- Proteção de sistemas e comunicações
-- Integridade de sistemas e informações
+- Controle de acesso (técnica)
+- Identificação e autenticação (técnica)
+- Proteção de sistemas e comunicações (técnica)
+- Integridade de sistemas e informações (técnica)
+- Gerenciamento de configuração (gerenciamento, técnica)
+- Resposta a incidentes (gerenciamento, técnica)
+- Proteção da mídia (gerenciamento, técnica)
+- Conscientização e treinamento (gerenciamento)
+- Auditoria e responsabilidade (gerenciamento)
+- Avaliações de certificação, credenciamento e segurança (gerenciamento)
+- Planejamento de contingência (gerenciamento)
+- Manutenção (gerenciamento)
+- Proteção física e ambiental (gerenciamento)
+- Planejamento (gerenciamento)
+- Segurança de pessoal (gerenciamento)
+- Avaliação de risco (gerenciamento)
+- Aquisição de sistemas e serviços (gerenciamento)
 
 ### 1.4 Uma Arquitetura de Segurança para Sistemas Abertos
 
